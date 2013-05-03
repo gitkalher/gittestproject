@@ -5,3 +5,5 @@ And here is the third line.
 Licence update U1.
 
 Licence update U2.
+
+Licence update U3.
